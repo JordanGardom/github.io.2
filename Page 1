@@ -1,0 +1,36 @@
+<html>
+
+<html lang="en">
+ <head>
+
+<style>
+
+
+body {
+	background-color: gray;
+}
+
+h1 {
+	color: black;
+}
+
+    p {
+	font-family: Times Romans;
+	color: white;
+}
+	</style>
+	</head>
+	<body>
+
+	<h1>
+
+    Hi, Welcome to the game industry of tommorrow. Here at Active Gaming we strive to improve how games are made, so we can release high quality games sooner than other competitors.
+    Click here to learn more about are up coming video game.
+    <a href="file:///C:/Users/jorda/OneDrive/Desktop/PrePrepOfficalSite2.html">link</a>.
+
+  </h1>
+
+<p>
+Intern Ship Here.
+<a href="">link</a>.
+</p>
