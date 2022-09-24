@@ -7,16 +7,16 @@
 
 
 body {
-	background-color: gray;
+	background-color: rgb(229, 227, 227);
 }
 
 h1 {
-	color: black;
+	color: rgb(255, 139, 139);
 }
 
     p {
 	font-family: Times Romans;
-	color: white;
+	color: rgb(255, 137, 137);
 }
 	</style>
 	</head>
