@@ -1,0 +1,67 @@
+<html>
+
+<html lang="en">
+	<head>
+
+		<style>
+		
+		
+		body {
+			background-color: rgb(229, 227, 227);
+		}
+		
+		h1 {
+			color: rgb(255, 92, 233);
+		}
+		p {
+			font-family: Times Roboto;
+			font-weight: 450;
+			font-size: large;
+			color: rgb(62, 228, 190);
+		}
+			</style>
+			</head>
+	<body>
+
+		<head>
+
+            <style>
+            
+            
+            body {
+                background-color: rgb(229, 227, 227);
+            }
+            
+            h1 {
+                color: rgb(255, 92, 233);
+            }
+            p {
+                font-family: 'Times New Roman', Times, serif;
+                font-weight: 400;
+                font-size: x-small;
+                color: rgb(62, 228, 190);
+            }
+                </style>
+                </head>
+
+
+                <head>
+
+                    <style>
+                    
+                    
+                    body {
+                        background-color: rgb(229, 227, 227);
+                    }
+                    
+                    h1 {
+                        color: rgb(255, 92, 233);
+                    }
+                    p {
+                        font-family: Times Inter Tight;
+                        font-weight: 320;
+                        font-size: x-large;
+                        color: rgb(62, 228, 190);
+                    }
+                        </style>
+                        </head>
