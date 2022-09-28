@@ -1,25 +1,26 @@
 <html>
 
 <html lang="en">
- <head>
+	<head>
 
-<style>
-
-
-body {
-	background-color: rgb(229, 227, 227);
-}
-
-h1 {
-	color: rgb(255, 139, 139);
-}
-
-    p {
-	font-family: Times NewRomans;
-	color: rgb(255, 137, 137);
-}
-	</style>
-	</head>
+		<style>
+		
+		
+		body {
+			background-color: rgb(229, 227, 227);
+		}
+		
+		h1 {
+			color: rgb(255, 92, 233);
+		}
+		p {
+			font-family: Times Roboto;
+			font-weight: 500;
+			font-size: large;
+			color: rgb(62, 228, 190);
+		}
+			</style>
+			</head>
 	<body>
 
 	<h1>
@@ -29,12 +30,9 @@ h1 {
     <a href="file:///C:/Users/jorda/OneDrive/Desktop/PrePrepOfficalSite2.html">link</a>.
 
   </h1>
+  
 
-<p>
-	p {
-	font-family: Times Roboto;
-	color: rgb(290, 137, 137);
-	}
+<h2>
 Intern Ship Here.
 <a href="">link</a>.
-</p>
+</h2>
