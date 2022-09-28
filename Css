@@ -15,7 +15,7 @@ h1 {
 }
 
     p {
-	font-family: Times Romans;
+	font-family: Times NewRomans;
 	color: rgb(255, 137, 137);
 }
 	</style>
@@ -31,6 +31,10 @@ h1 {
   </h1>
 
 <p>
+	p {
+	font-family: Times Roboto;
+	color: rgb(255, 137, 137);
+	}
 Intern Ship Here.
 <a href="">link</a>.
 </p>
