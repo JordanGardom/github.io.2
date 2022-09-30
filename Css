@@ -7,18 +7,28 @@
 		
 		
 		body {
-			background-color: rgb(229, 227, 227);
+			background-color: rgb(108, 216, 252);
 		}
 		
 		h1 {
-			color: rgb(255, 92, 233);
+			color: rgb(255, 157, 242);
 		}
 		p {
 			font-family: Times Roboto;
 			font-weight: 500;
 			font-size: large;
-			color: rgb(62, 228, 190);
+			
 		}
+		h2 {
+			color: rgb(255, 227, 46);
+		}
+		p {
+			font-family: Times 'Times New Roman', Times, serif;
+			font-weight: 400;
+			font-size: medium;
+
+		}
+
 			</style>
 			</head>
 	<body>
@@ -27,12 +37,14 @@
 
     Hi, Welcome to the game industry of tommorrow. Here at Active Gaming we strive to improve how games are made, so we can release high quality games sooner than other competitors.
     Click here to learn more about are up coming video game.
-    <a href="file:///C:/Users/jorda/OneDrive/Desktop/PrePrepOfficalSite2.html">link</a>.
+    <a href="file:///C:/Users/jorda/OneDrive/Desktop/PrePrepOfficalSite2.html">Upcoming Games</a>.
 
   </h1>
   
 
 <h2>
+	<p>
 Intern Ship Here.
 <a href="">link</a>.
+	</p>
 </h2>
