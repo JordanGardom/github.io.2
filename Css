@@ -11,40 +11,54 @@
 		}
 		
 		h1 {
-			color: rgb(255, 157, 242);
-		}
-		p {
-			font-family: Times Roboto;
-			font-weight: 500;
-			font-size: large;
 			
 		}
+		p1 {
+			font-family: Times Roboto;
+			font-weight: 500;
+			font-size: xxx-large;
+			color: rgb(255, 157, 242);
+		}
+		p2 {
+			font-family:Arial ;
+			font-weight: 350;
+			font-size: xx-large;
+			color: rgb(97, 255, 107);
+		}
+
 		h2 {
 			color: rgb(255, 227, 46);
 		}
 		p {
 			font-family: Times 'Times New Roman', Times, serif;
-			font-weight: 400;
-			font-size: medium;
-
-		}
-
+			font-weight: 800;
+			font-size: xx-large;
+		
+	}
 			</style>
 			</head>
 	<body>
 
 	<h1>
 
-    Hi, Welcome to the game industry of tommorrow. Here at Active Gaming we strive to improve how games are made, so we can release high quality games sooner than other competitors.
+    <P1>
+		Hi, Welcome to the game industry of tommorrow. Here at Active Gaming we strive to improve how games are made, so we can release high quality games sooner than other competitors.
     Click here to learn more about are up coming video game.
     <a href="file:///C:/Users/jorda/OneDrive/Desktop/PrePrepOfficalSite2.html">Upcoming Games</a>.
+
+	</P1>
+
+	<P2>
+	Reserve your digital copies today. 
+
+	</P2>
 
   </h1>
   
 
 <h2>
-	<p>
+	
 Intern Ship Here.
 <a href="">link</a>.
-	</p>
+
 </h2>
