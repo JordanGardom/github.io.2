@@ -4,26 +4,23 @@
 	<head>
 
 		<style>
-		
-		
-		body {
-			background-color: rgb(108, 216, 252);
-		}
-		
+			body{
+				background-color: blueviolet;
+			}
 		h1 {
-			
+			background-color: rgb(252, 110, 100);  /* red with opacity */
 		}
 		p1 {
 			font-family: Times Roboto;
 			font-weight: 500;
 			font-size: xxx-large;
-			color: rgb(255, 157, 242);
+			color: rgb(8, 255, 251);
 		}
 		p2 {
 			font-family:Arial ;
 			font-weight: 350;
 			font-size: xx-large;
-			color: rgb(97, 255, 107);
+			color: rgb(43, 219, 55);
 		}
 
 		h2 {
