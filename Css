@@ -59,3 +59,14 @@ Intern Ship Here.
 <a href="">link</a>.
 
 </h2>
+
+
+<img src="Untitled6_20220923221646.png" alt="">
+img {
+	width: 150px;
+	height: 400px;
+	object-fit: cover;
+	object-position: 67% 80%;
+  }
+  
+  
