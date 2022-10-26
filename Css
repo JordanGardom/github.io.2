@@ -4,6 +4,18 @@
 	<head>
 
 		<style>
+	
+			#grad1 {
+				
+  width: 200px;
+  height: 400px;
+  object-fit: none;
+  object-position: 5px 10%;
+  border: 5px solid red;
+  height: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
 			body{
 				background-color: blueviolet;
 			}
@@ -20,11 +32,11 @@
 			font-family:Arial ;
 			font-weight: 350;
 			font-size: xx-large;
-			color: rgb(43, 219, 55);
+			color: rgb(252, 110, 100);
 		}
 
 		h2 {
-			color: rgb(255, 227, 46);
+			color: rgb(0, 81, 115);
 		}
 		p {
 			font-family: Times 'Times New Roman', Times, serif;
@@ -54,19 +66,12 @@
   
 
 <h2>
-	
-Intern Ship Here.
-<a href="">link</a>.
-
+	<div id="grad1">	
+<a href="">Intern Ship Here</a>.
+</div>
 </h2>
 
-
 <img src="Untitled6_20220923221646.png" alt="">
-img {
-	width: 150px;
-	height: 400px;
-	object-fit: cover;
-	object-position: 67% 80%;
-  }
-  
+
+
   
