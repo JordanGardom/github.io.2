@@ -4,23 +4,25 @@
 	<head>
 
 		<style>
+			table, th, td {
+  border:1px solid black;
+}
 	
 			#grad1 {
-				
-  width: 200px;
-  height: 400px;
+  width: 90px;
+  height: 80px;
   object-fit: none;
-  object-position: 5px 10%;
-  border: 5px solid red;
+  object-position: 3px 50%;
+  border: 5px solid rgb(150, 229, 184);
   height: 200px;
-  background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to bottom right, red, yellow);
+  background-color: rgb(51, 0, 255); /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, rgb(255, 59, 239), rgb(130, 255, 232));
 }
 			body{
 				background-color: blueviolet;
 			}
 		h1 {
-			background-color: rgb(252, 110, 100);  /* red with opacity */
+			background-color: rgb(255, 59, 239);  /* red with opacity */
 		}
 		p1 {
 			font-family: Times Roboto;
@@ -32,7 +34,7 @@
 			font-family:Arial ;
 			font-weight: 350;
 			font-size: xx-large;
-			color: rgb(252, 110, 100);
+			color: rgb(255, 59, 239);
 		}
 
 		h2 {
@@ -41,10 +43,11 @@
 		p {
 			font-family: Times 'Times New Roman', Times, serif;
 			font-weight: 800;
-			font-size: xx-large;
+			font-size: x-large;
 		
 	}
 			</style>
+
 			</head>
 	<body>
 
@@ -74,4 +77,51 @@
 <img src="Untitled6_20220923221646.png" alt="">
 
 
-  
+<body>
+	<h4>A basic HTML table</h4>
+
+<table style="width:19.2%">
+
+<table>
+<tr>
+  <th>Games</th>
+  <th>Price</th>
+  <th>Release</th>
+</tr>
+<tr>
+  <td>Moon Stray</td>
+  <td>$45</td>
+  <td>2024 Feb</td>
+</tr>
+<tr>
+  <td>The Call</td>
+  <td>$60</td>
+  <td>2024 June</td>
+</tr>
+<tr>
+	<td>Last Chance</td>
+	<td>$50</td>
+	<td>2024 December</td>
+  </tr>
+</table>
+</body>
+
+
+<html>
+<body>
+
+<h2>HTML Forms</h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+</body>
+</html>
+
