@@ -125,3 +125,47 @@
 </body>
 </html>
 
+
+
+<head>
+	<style>
+	.item1 { grid-area: header; }
+	.item2 { grid-area: menu; }
+	.item3 { grid-area: main; }
+	.item4 { grid-area: right; }
+	.item5 { grid-area: footer; }
+	
+	.grid-container {
+	  display: grid;
+	  grid-template-areas:
+		'header header header header header header'
+		'menu main main main right right'
+		'menu footer footer footer footer footer';
+	  gap: 10px;
+	  background-color: #2196F3;
+	  padding: 10px;
+	}
+	
+	.grid-container > div {
+	  background-color: rgba(255, 255, 255, 0.8);
+	  text-align: center;
+	  padding: 10px 0;
+	  font-size: 20px;
+	}
+	</style>
+	</head>
+	<body>
+	
+	<h1>Grid Layout</h1>
+	
+	<p>This grid layout contains six columns and three rows:</p>
+	
+	<div class="grid-container">
+	  <div class="item1">Welcome to The Gaming center of tommorrow</div>
+	  <div class="item2">Purchase/Pre-Order games to earn rewards</div>
+	  <div class="item3">Here we improve are games with your feedback and produce something you are guaranteed to love.</div>  
+	  <div class="item4">30 Day refund on every store purchase and 3 days on every online purchase of our games</div>
+	  <div class="item5">Thanks for choosing our games.</div>
+	</div>
+	
+	</body>
